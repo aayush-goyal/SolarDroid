@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SolarDroid</string>
+
+    <!-- MainActivity -->
+    <string name="module1">Module 1: 250 Watts</string>
+    <string name="module2">Module 2: 300 Watts</string>
+    <string name="module3">Module 3: 320 Watts</string>
+    <string name="read_more">Read More</string>
+
+    <string name="readMoreFullText">Solar Power</string>
+
+    <string name="compass_dial">Compass Dial</string>
+    <string name="compass_hands">Compass Hands</string>
+</resources>
